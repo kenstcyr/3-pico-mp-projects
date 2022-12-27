@@ -1,0 +1,3 @@
+[submodule "01-LCD-Weather/st7920"]
+	path = 01-LCD-Weather/st7920
+	url = https://github.com/kenstcyr/micropython-st7920.git
